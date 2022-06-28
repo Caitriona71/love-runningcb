@@ -209,9 +209,10 @@ hr {
     padding: 30px 0 0 10px;
     text-align: center;
     border: 2px solid white;
+    box-sizing: border-box;
 }
 
-#time h2 {
+#times h2 {
     color: #fafafa;
 }
 
